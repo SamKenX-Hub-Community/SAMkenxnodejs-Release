@@ -4,11 +4,9 @@
 
 | Release  | Status              | Codename     |Initial Release | Active LTS Start | Maintenance Start | End-of-life               |
 | :--:     | :---:               | :---:        | :---:          | :---:            | :---:             | :---:                     |
-| [14.x][] | **Maintenance**     | [Fermium][]  | 2020-04-21     | 2020-10-27       | 2021-10-19        | 2023-04-30                |
 | [16.x][] | **Maintenance**     | [Gallium][]  | 2021-04-20     | 2021-10-26       | 2022-10-18        | [2023-09-11][nodejs16eol] |
 | [18.x][] | **LTS**             | [Hydrogen][] | 2022-04-19     | 2022-10-25       | 2023-10-18        | 2025-04-30                |
-| [19.x][] | **Current**         |              | 2022-10-18     | -                | 2023-04-01        | 2023-06-01                |
-| 20.x     | **Pending**         |              | 2023-04-18     | 2023-10-24       | 2024-10-22        | 2026-04-30                |
+| [20.x][] | **Current**         |              | 2023-04-18     | 2023-10-24       | 2024-10-22        | 2026-04-30                |
 
 Dates are subject to change.
 
@@ -55,8 +53,10 @@ that are not End-of-Life.
 | [11.x][] | **End-of-Life** |           |    2018-10-23   |         -        |                       |  2019-06-01 |
 | [12.x][] | **End-of-Life** | [Erbium][]|    2019-04-23   |    2019-10-21    |       2020-11-30      |  2022-04-30 |
 | [13.x][] | **End-of-Life** |           |    2019-10-22   |         -        |                       |  2020-06-01 |
+| [14.x][] | **End-of-Life** |[Fermium][]|    2020-04-21   |    2020-10-27    |       2021-10-19      |  2023-04-30 |
 | [15.x][] | **End-of-Life** |           |    2020-10-20   |         -        |                       |  2021-06-01 |
 | [17.x][] | **End-of-Life** |           |    2021-10-19   |         -        |                       |  2022-06-01 |
+| [19.x][] | **End-of-Life** |           |    2022-10-18   |         -        |       2023-04-01      |  2023-06-01 |
 
 ## Mandate
 
@@ -168,6 +168,7 @@ the discretion of the Release working group.
 [17.x]: https://nodejs.org/download/release/latest-v17.x/
 [18.x]: https://nodejs.org/download/release/latest-v18.x/
 [19.x]: https://nodejs.org/download/release/latest-v19.x/
+[20.x]: https://nodejs.org/download/release/latest-v20.x/
 
 The working group members are the union of the LTS, Releasers
 and CITGM team members listed below.
